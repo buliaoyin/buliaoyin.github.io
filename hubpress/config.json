@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "buliaoyin",
-    "repositoryName": "buliaoyin.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"buliaoyin","repositoryName":"buliaoyin.github.io","branch":"master","delay":"2000"},"site":{"url":"https://buliaoyin.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//buliaoyin.github.io/themes/Casper"}}
