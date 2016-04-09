@@ -1,5 +1,6 @@
 = Hello, AsciiDoc!
 Doc Writer <doc@example.com>
+:toc:
 :icons: font
 :source-highlighter: highlight.js
 
