@@ -1,6 +1,7 @@
-= HubPress部署说明
-
+= HubPress
 :toc:
+:icons: font
+:source-highlighter: highlight.js
 
 == 什么是HubPress?
 image::http://hubpress.io/img/editor.png[]
