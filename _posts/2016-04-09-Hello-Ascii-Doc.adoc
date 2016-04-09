@@ -1,0 +1,69 @@
+= Hello, AsciiDoc!
+Doc Writer <doc@example.com>
+:icons: font
+:source-highlighter: highlight.js
+
+An introduction to http://asciidoc.org[AsciiDoc].
+
+== First Section
+
+.AsciiDoc history
+****
+AsciiDoc was first released in Nov 2002 by Stuart Rackham.
+It was designed from the start to be a shorthand syntax
+for producing professional documents like DocBook and LaTeX.
+****
+
+"I hold it that a little rebellion now and then is a good thing,
+and as necessary in the political world as storms in the physical."
+-- Thomas Jefferson, Papers of Thomas Jefferson: Volume 11
+
+NOTE: 如果你从来没有用过AsciiDoc，推荐你首先去 http://asciidoctor.org/docs/asciidoc-writers-guide/[AsciiDoctor Writer's Guide] 上提前感受一下。那里有各种基础和进阶的使用例子供你使用。
+
+* item 1
+* item 2
+
+[source,ruby]
+----
+puts "Hello, World!"
+----
+
+[source,ruby]
+.app.rb
+----
+require 'sinatra'
+
+get '/hi' do
+  "Hello World!"
+end
+----
+
+[source,java]
+----
+public class CameraActivity extends Activity {
+
+    @Override
+    public void onResume() {
+        super.onResume();
+        mStreamer.onResume();
+    }
+
+    @Override
+    public void onPause() {
+        super.onPause();
+        mStreamer.onPause();
+    }
+
+    @Override
+    public void onDestroy() {
+        super.onDestroy();
+        mStreamer.onDestroy();
+    }
+}
+----
+
+[options=interactive]
+- [*] checked
+- [x] also checked
+- [ ] not checked
+-     normal list item
